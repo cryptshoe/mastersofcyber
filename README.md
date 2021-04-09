@@ -1,4 +1,9 @@
-# mastersofcyber
+# Masters of CyberSec 
+  This is where i will be keeping a repository of scripts that i will be writing through the course. 
+
+
+
+# Principles of Security Engineering- Hashing
 
  This script was designed to complete 2 main functions. 1) Encode MD5 and SHA1. 2) Brute-force MD5 and SHA1
  The Brute-force function runs off a wordlist of 10000 words, these are the most popular words used for passwords.
